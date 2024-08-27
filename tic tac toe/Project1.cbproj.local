@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.234,=C:\Users\ani33\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.744,=C:\Users\ani33\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024-08-27 16:27:07.333,=C:\Users\ani33\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024-08-27 16:27:07.745,=C:\Users\ani33\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024-08-27 16:41:03.128,C:\Users\ani33\Documents\Embarcadero\Studio\Projects\tic_tac_toe.cpp=C:\Users\ani33\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024-08-27 16:41:03.128,C:\Users\ani33\Documents\Embarcadero\Studio\Projects\tic_tac_toe.h=C:\Users\ani33\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024-08-27 16:41:03.128,C:\Users\ani33\Documents\Embarcadero\Studio\Projects\tic_tac_toe.fmx=C:\Users\ani33\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2024-08-27 17:01:04.861,C:\Users\ani33\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\ani33\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
