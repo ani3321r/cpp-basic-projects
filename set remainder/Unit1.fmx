@@ -1,0 +1,54 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 508
+  ClientWidth = 320
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object RemainderDate: TDateEdit
+    Date = 45532.000000000000000000
+    Position.X = 88.000000000000000000
+    Position.Y = 72.000000000000000000
+    Size.Width = 121.000000000000000000
+    Size.Height = 33.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+  end
+  object RemainderTime: TTimeEdit
+    Time = 0.585652280092592600
+    Position.X = 88.000000000000000000
+    Position.Y = 152.000000000000000000
+    Size.Width = 121.000000000000000000
+    Size.Height = 33.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+  end
+  object RemainderMessage: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 2
+    Position.X = 88.000000000000000000
+    Position.Y = 232.000000000000000000
+    Size.Width = 121.000000000000000000
+    Size.Height = 33.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object setRemainderBtn: TButton
+    Position.X = 88.000000000000000000
+    Position.Y = 312.000000000000000000
+    Size.Width = 121.000000000000000000
+    Size.Height = 33.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 3
+    Text = 'Set Remainder'
+    TextSettings.Trimming = None
+    OnClick = setRemainderBtnClick
+  end
+  object RemainderTimer: TTimer
+    OnTimer = RemainderTimerTimer
+    Left = 264
+    Top = 440
+  end
+end
